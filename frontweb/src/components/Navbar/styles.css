@@ -1,0 +1,5 @@
+.main-nav {
+    display: flex;
+    min-height: 70px;
+    align-items: center;
+}

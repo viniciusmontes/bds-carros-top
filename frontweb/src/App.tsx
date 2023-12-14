@@ -1,12 +1,13 @@
 import './assets/styles/custom.scss';
-
+import Navbar from 'components/Navbar';
 
 import './App.css';
 
 
+
 function App() {
   return (
-    <h1>Carros-Top</h1>
+    <Navbar/>
   );
 }
 

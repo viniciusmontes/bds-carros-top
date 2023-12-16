@@ -1,14 +1,22 @@
 .main-nav {
-    display: flex;
-    min-height: 70px;
-    align-items: center;
+  display: flex;
+  min-height: 70px;
+  align-items: center;
 }
 .main-nav h4 {
-    font-weight: bold;
+  font-weight: bold;
 }
 
-@media(min-width:768px) {
-    .main-nav ul li {
-        margin-left: 48px;
-    }
+@media (min-width: 768px) {
+  .main-nav ul li {
+    margin-left: 48px;
+  }
+}
+@media (min-width: 1200px) {
+  .main-nav h4 {
+    margin-left: 150px;
+  }
+  .main-menu {
+    margin-right: 150px;
+  }
 }

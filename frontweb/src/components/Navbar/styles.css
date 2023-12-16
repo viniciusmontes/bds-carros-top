@@ -6,3 +6,9 @@
 .main-nav h4 {
     font-weight: bold;
 }
+
+@media(min-width:768px) {
+    .main-nav ul li {
+        margin-left: 48px;
+    }
+}

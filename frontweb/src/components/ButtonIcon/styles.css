@@ -1,5 +1,5 @@
 .btn-container {
-    display: flex;
+  display: flex;
 }
 .btn-container button {
   width: 174px;
@@ -7,5 +7,6 @@
   border-radius: 5px;
 }
 .btn-container h1 {
-    font-size: 14px;
+  color: #fff;
+  font-size: 14px;
 }

@@ -10,10 +10,11 @@ const Home = () => {
       <Navbar />
       <div className="home-container">
         <div className="home-card">
-          <div className="home-card-image-container">
-            <img src={HomeImage} alt="" />
-          </div>
+        <div className="home-card-image-container">
+              <img src={HomeImage} alt="" />
+            </div>
           <div className="home-content-container">
+            
             <div>
               <h1>O carro perfeito para você</h1>
               <p>
@@ -25,7 +26,7 @@ const Home = () => {
         </div>
         <div className="home-card-button">
           <div className="home-card-button-content">
-            <ButtonIcon />
+            <ButtonIcon text='VER CATÁLOGO'/>
             <p>Comece agora a navegar</p>
           </div>
         </div>

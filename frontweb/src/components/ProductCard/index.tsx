@@ -1,5 +1,5 @@
 import CardImage from 'assets/images/car-card.png';
-import ButtonIcon from 'components/ButtonIcon';
+import ButtonCard from 'components/ButtonCard';
 
 import './styles.css';
 
@@ -15,7 +15,9 @@ const ProductCard = () => {
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate,
           nisi
         </p>
-        <ButtonIcon text='COMPRAR'/>
+        <div className="card-bottom-container-button">
+          <ButtonCard text='COMPRAR'/>
+        </div>
       </div>
     </div>
   );

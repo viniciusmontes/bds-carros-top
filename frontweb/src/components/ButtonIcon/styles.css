@@ -1,12 +1,12 @@
-.btn-container {
+.btn-icon-container {
   display: flex;
 }
-.btn-container button {
+.btn-icon-container button {
   width: 174px;
   height: 40px;
   border-radius: 5px;
 }
-.btn-container h1 {
+.btn-icon-container h6 {
   color: #fff;
   font-size: 14px;
 }

@@ -1,9 +1,12 @@
 .main-nav {
-  display: flex;
   min-height: 70px;
+  padding-left: 20px;
 }
 .nav-logo-text {
   font-weight: bold;
+}
+.main-menu {
+  display: flex;
 }
 .main-menu a.active {
   font-weight: bold;
@@ -15,10 +18,7 @@
   }
 }
 @media (min-width: 1200px) {
-  .main-nav h4 {
-    margin-left: 150px;
-  }
-  .main-menu {
-    margin-right: 150px;
+  .main-nav {
+    padding: 0 150px;
   }
 }

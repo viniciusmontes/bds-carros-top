@@ -91,7 +91,7 @@
   .home-card-button-content p {
     width: 220px;
     font-size: 0.6em;
-    margin-left: 15px;
+    margin: 0;
   }
 }
 @media (min-width: 768px) {

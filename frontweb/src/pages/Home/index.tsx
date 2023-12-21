@@ -1,8 +1,10 @@
 import HomeImage from 'assets/images/home-image.png';
 import ButtonIcon from 'components/ButtonIcon';
+import { Link } from 'react-router-dom';
+
 
 import './styles.css';
-import { Link } from 'react-router-dom';
+
 
 const Home = () => {
   return (

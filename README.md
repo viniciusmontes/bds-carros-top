@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-[//https://wmazoni-sds1.netlify.app//](https://carros-top-viniciusmontes.netlify.app)
+https://carros-top-viniciusmontes.netlify.app
 
 Carros-Top é uma aplicação web e mobile, é o primeiro desafio do BootCamp React pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 

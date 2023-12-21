@@ -16,6 +16,7 @@
   color: #a7a7a7;
 }
 .product-filter-content button {
+  width: 77px;
   height: 40px;
   border-radius: 0px 5px 5px 0px;
 }
